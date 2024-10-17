@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: $century;
   }
 
   li {
@@ -77,13 +77,13 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: $century;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      // color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $my-primary-color;
       }
 
       &.disabled {
@@ -126,7 +126,7 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
+    font-family: $century;
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
@@ -175,13 +175,13 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $my-primary-color;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #fff;
     text-decoration: none;
 
     &:hover {
@@ -196,7 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $my-primary-color;
+    // background-color: $primary-color;
     color: #fff;
     cursor: pointer;
     z-index: 100;
@@ -268,8 +269,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        color: mix(#fff, $my-primary-color, 75%);
+        background: mix(#fff, $my-primary-color, 75%);
       }
     }
 
