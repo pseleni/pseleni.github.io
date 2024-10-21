@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I am a PhD Candidate in Computer Science at the National Technical University of Athens (NTUA), advised by Prof. Dimitris Fotakis. My research lies at the intersection of Machine Learning, Fairness, and Explainability, with a focus on optimizing ranking systems and improving the fairness of AI models. I have tackled various research problems, including Label Ranking, Time Series Clustering, Fair Preference Aggregation, and Bias Detection using Explainability Techniques.
 
-I hold an MEng in Electrical and Computer Engineering from NTUA, where my undergraduate research centered on Multiwinner Voting Rules. Over the years, I have contributed to several high-impact projects, such as the AI Fairness 360 toolkit and anomaly detection systems for space applications. My work has been presented at leading conferences, and I have collaborated on various projects with the latest being AutoFair (funded by Horizon Europe).
+I hold an MEng in Electrical and Computer Engineering from NTUA, where my undergraduate research centered on Multiwinner Voting Rules. Over the years, I have contributed to several high-impact projects, such as the AI Fairness 360 toolkit and anomaly detection systems for space applications. My work has been presented at leading conferences (ICML, NeurIPS, etc.), and I have collaborated on various international projects with the latest being AutoFair (funded by Horizon Europe).
 
 Research:
 ======
